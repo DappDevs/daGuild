@@ -18,8 +18,11 @@ mitigation to external forces who wish to co-opt the labor force of the DATU com
 
 The following explicitly coded oppurtunities to gain newly minted tokens are:
 * Participating in an event (1 Token)
+* Committing knowledge to the public repository (1 Token)
 * Volunteering for an event (10 Tokens)
+* Contributing features/tests to internal projects (10 Tokens)
 * Instructing an event (100 Tokens)
+* Contributing features/tests to projects the community deems useful (100 Tokens)
 
 The token flow around bidding and gaining access to work through the decentralized project management tool is:
 * Job is created with a suggested token amount, aligned with the complexity of the project
