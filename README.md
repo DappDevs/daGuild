@@ -1,6 +1,7 @@
 # Decentralized Autonomous Trade Union
 
-A *DATU* is a Decentralized Autonomous Organization (or DAO) that specializes in the processes related to a specific field or task.
+A *DATU* is a Decentralized Autonomous Organization (or DAO) that specializes in the processes
+related to a specific craft or occuptation.
 
 ---
 
@@ -16,7 +17,7 @@ the task in an effective manner, developing mastery of the subject until they ca
 The DATU allows work to shared in a trustful manner between parties that may not be able to co-habitate the same
 workspace all the time, allowing the efficiency and security of a traditional organization to transfer into the digital age.
 
-By organizing members via function instead of by project, members develop a deep mastery of the subject,
+By organizing members via craft instead of by business, members develop a deep mastery of the subject,
 adhereing to the Unix philosphy to "Do one thing, and do it well".
 
 Since members are under no obligation to long term goals of an organization,
